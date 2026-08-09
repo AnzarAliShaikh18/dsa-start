@@ -1,6 +1,9 @@
+// variable , Data type , Operators
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, DSA world!" << std::endl;
+
+    cout << "go to hell" << endl;
     return 0;
 }
